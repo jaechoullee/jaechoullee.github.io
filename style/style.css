@@ -45,7 +45,7 @@ h6
 a, a:hover
 { outline: none;
   text-decoration: none;
-  color: #F05A00;}
+  color: #CF4527;}
 
 a:hover
 { text-decoration: underline;}
@@ -90,7 +90,7 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #F79F00;
+{ background: #002454;
   height: 240px;}
 
 #logo
@@ -117,7 +117,7 @@ ol li
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #F05A00;}
+{ color: #CF4527;}
 
 #logo_text h2
 { font-size: 100%;
@@ -258,7 +258,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   height: 33px;
   padding: 2px 0 3px 0;
   cursor: pointer; 
-  background: #F05A00; 
+  background: #CF4527; 
   color: #FFF;}
 
 .form_settings textarea, .form_settings select
